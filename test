@@ -1,3 +1,4 @@
+test.fetch();
 BufferedWriter out = null;
 rs.close();
 ps.close();
