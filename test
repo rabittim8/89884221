@@ -1,3 +1,4 @@
+test.init();
 try {
 rs.close();
 con=DriverManager.getConnection(url, userName, password);
