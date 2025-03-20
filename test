@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 } catch (IOException e) {
 con=DriverManager.getConnection(url, userName, password);
 con=DriverManager.getConnection(url, userName, password);
